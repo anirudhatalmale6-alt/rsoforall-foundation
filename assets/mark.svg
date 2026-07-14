@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RSO For All Foundation">
+  <title>RSO For All Foundation</title>
+  <!-- A message, and someone on the other end of it answering. That is the whole foundation. -->
+  <g fill="none" stroke="currentColor" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 11 h34 a8 8 0 0 1 8 8 v17 a8 8 0 0 1 -8 8 H31 L19 54 V44 h-4 a8 8 0 0 1 -8 -8 V19 a8 8 0 0 1 8 -8 Z"/>
+    <path d="M32 37.5 c -6.2 -4.6 -9.9 -7.9 -9.9 -11.8 a5.4 5.4 0 0 1 9.9 -2.9 a5.4 5.4 0 0 1 9.9 2.9 c 0 3.9 -3.7 7.2 -9.9 11.8 Z"/>
+  </g>
+</svg>
