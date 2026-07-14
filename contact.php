@@ -7,7 +7,7 @@
  * so nobody but John ever sees what people write in.
  */
 
-$to      = 'CHANGE-ME@rsoforallfoundation.com'; // <-- John's inbox
+$to      = 'Rsoforal@gmail.com'; // John's inbox
 $subject = 'New message from rsoforallfoundation.com';
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
